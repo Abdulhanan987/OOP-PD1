@@ -1,0 +1,2 @@
+Safwan,Safwan,Pakistan,Male,18,Lahore,Karachi,Yes,Yes,24 May,Sunday,3410164733445,774,Business,PAk Airlines,Good,1,0,
+Abdullah,Abullah,Pakistan,Male,18,Lahore,Karachi,Yes,Yes,24 May,Sunday,1234567890123,774,Business,India Airlines,Good,1,1,

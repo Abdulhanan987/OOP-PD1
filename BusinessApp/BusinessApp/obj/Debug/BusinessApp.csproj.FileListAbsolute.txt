@@ -1,0 +1,7 @@
+E:\Semester 2\Lab 1\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe.config
+E:\Semester 2\Lab 1\BusinessApp\BusinessApp\bin\Debug\BusinessApp.exe
+E:\Semester 2\Lab 1\BusinessApp\BusinessApp\bin\Debug\BusinessApp.pdb
+E:\Semester 2\Lab 1\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.AssemblyReference.cache
+E:\Semester 2\Lab 1\BusinessApp\BusinessApp\obj\Debug\BusinessApp.csproj.CoreCompileInputs.cache
+E:\Semester 2\Lab 1\BusinessApp\BusinessApp\obj\Debug\BusinessApp.exe
+E:\Semester 2\Lab 1\BusinessApp\BusinessApp\obj\Debug\BusinessApp.pdb

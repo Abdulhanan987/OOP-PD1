@@ -1,0 +1,4 @@
+Abdul Hanan,Abdul987,admin
+Ali,Ali98765,manager,
+Safwan,Safwan12,customer
+Abdullah,Abdullah,customer
